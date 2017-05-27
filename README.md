@@ -1,2 +1,9 @@
 # Deep-Learning-A-Z
-### Add folders 
+### Dependencies
+* Keras
+* Theano
+* Tensorflow
+* Scipy
+* Numpy
+* Pandas
+* Scikit-learn
